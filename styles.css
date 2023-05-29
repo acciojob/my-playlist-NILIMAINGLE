@@ -1,22 +1,20 @@
-/*  your css code here. If applicable */
 body{
-	background-color: #cccccc;
+	background-color:#cccccc;
 }
 .player_one{
-	border: 1px solid grey;
-	background-color: #fff;
-	border-radius: 5px;
+	background-color:white;	
+	border:1px solid grey;
+	border-radius:5px;
 }
-
 .player_two{
-	border: 1px solid grey;
-	background-color: #fff;
-	padding: 5px;
-	margin-left: auto;
-	margin-right: auto;
-	width: max-content;
+	background-color:white;	
+	padding:5px;
+	border:1px solid grey;
+	border-radius:5px;
+	margin-left:auto;
+	margin-right:auto;
+	width:max-content;
 }
-
 ul{
 	list-style-type: none;
 	padding:5px;
